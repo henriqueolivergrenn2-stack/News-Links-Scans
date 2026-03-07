@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://news-links-scans-it4z.vercel.app/</loc>
-    <lastmod>2026-03-06</lastmod>  <!-- Coloque a data da última atualização da página -->
-    <changefreq>weekly</changefreq>  <!-- Frequência de mudança: daily, weekly, monthly, etc. -->
-    <priority>1.0</priority>  <!-- Prioridade de 0.0 a 1.0; 1.0 é a mais alta -->
+    <lastmod>2025-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
 </urlset>
